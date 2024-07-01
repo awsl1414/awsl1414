@@ -3,7 +3,6 @@
 Welcome to my github page! I'm a student from China.  
 I'm awsl1414.  
 ![email](https://img.shields.io/badge/-l3030994569@foxmail.com-2a52be?style=flat-square&logo=Gmail&logoColor=white&link=mailto:l3030994569@foxmail.com)
-
 [![Gitee](https://img.shields.io/badge/-Gitee-c71d23?style=flat-square&logo=&logoColor=white&link=https://gitee.com/awsl1414)](https://gitee.com/awsl1414)
 
 ### :smile: 简介
